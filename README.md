@@ -16,8 +16,8 @@ Passos:
 
 
 <h3>GIF<h3>
-<img src="imgs/ezgif.com-video-to-gif.gif" alt="Demo GIF">
-
+![ezgif com-video-to-gif](https://github.com/VitorFidelis/Projeto-002--Random_User/assets/109974299/33a28432-8544-4ce0-8176-abe58e07648c)
+ 
 <!--------------------------------------------------->
 
 <h3>First screen<h3>
