@@ -14,6 +14,12 @@ Passos:
 
     > Apresentado as informações do usuário na interface gráfica do aplicativo.
 
+
+<h3>GIF<h3>
+<img src="imgs/ezgif.com-video-to-gif.gif" alt="Demo GIF">
+
+<!--------------------------------------------------->
+
 <h3>First screen<h3>
 <img src="imgs/imgs1.png" alt="First screen">
 
@@ -38,6 +44,3 @@ Passos:
 <img src="imgs/imgs5.png" alt="Fifth screen">
 
 <!--------------------------------------------------->
-
-<h3>Demo GIF<h3>
-<img src="imgs/ezgif.com-video-to-gif.gif" alt="Demo GIF">
