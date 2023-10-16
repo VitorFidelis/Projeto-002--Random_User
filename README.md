@@ -16,7 +16,7 @@ Passos:
 
 
 <h3>GIF<h3>
-<img src="imgs/ezgif.com-video-to-gif.gif" alt="Demo GIF">
+<img src="imgs/gif_imgs.gif" alt="Demo GIF">
 
 <!--------------------------------------------------->
 
