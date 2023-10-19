@@ -16,17 +16,12 @@ Passos:
 
 
 <h3>GIF<h3>
-<img width="460" height="300" src="imgs/gif_imgs.gif" alt="Demo GIF">
+<img src="imgs/gif_imgs.gif" alt="Demo GIF">
 
 <!--------------------------------------------------->
 
 <h3>First screen<h3>
 <img src="imgs/imgs1.png" alt="First screen">
-
-<!--------------------------------------------------->
-
-<h3>Second screen<h3>
-<img src="imgs/imgs2.png" alt="Second screen">
 
 <!--------------------------------------------------->
 
