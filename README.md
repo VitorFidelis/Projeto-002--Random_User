@@ -16,8 +16,8 @@ Passos:
 
 
 <h3>GIF<h3>
-
-<img src="imgs/gif_imgs.gif" alt="Demo GIF">
+ 
+![gif_imgs](https://github.com/VitorFidelis/Projeto-002--Random_User/assets/109974299/0cdc2844-8e65-4479-a24e-120ebe8da3da)
 
 <!--------------------------------------------------->
 
