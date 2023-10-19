@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Cor do background page-->
+    <color name="white">#f8f9fa</color>
+    <!--Cor do StatusBar-->
+    <color name="statusBar">#323b5a</color>
+    <!--Cor dos outros elementos-->
+    <color name="elements">#323b5a</color>
+</resources>
