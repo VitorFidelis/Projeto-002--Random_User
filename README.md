@@ -16,6 +16,7 @@ Passos:
 
 
 <h3>GIF<h3>
+
 <img src="imgs/gif_imgs.gif" alt="Demo GIF">
 
 <!--------------------------------------------------->
